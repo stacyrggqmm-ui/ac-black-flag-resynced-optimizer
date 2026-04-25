@@ -86,7 +86,7 @@ Discover all changes in the [CHANGELOG.md](./CHANGELOG.md).
 ## Screenshots
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_app.png" width="48%">
-<img src="https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_installer.png" width="48%">
+  <img src="https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_app.png" alt="App Screenshot" width="48%">
+  <img src="https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_installer.png" alt="Installer" width="48%">
 </div>
 

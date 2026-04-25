@@ -3,6 +3,8 @@
 ![banner](https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/banner.png)
 
 
+
+
 ![Version](https://img.shields.io/badge/version-v1.3-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 
 Bonjour gamers and performance enthusiasts! Welcome to **ACBlackFlag-Boost**, your go-to solution for enhancing your experience in AC Black Flag Resynced. I'm thrilled to share this project with you, crafted with a passion for UX/UI and fine-tuned for optimal performance. Let's make your naval adventures as smooth as a Caribbean breeze.
@@ -84,6 +86,6 @@ Discover all changes in the [CHANGELOG.md](./CHANGELOG.md).
 
 ## Screenshots
 
-| App | Installer |
-|-----|-----------|
-| ![](https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_app.png) | ![](https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_installer.png) |
+| Main App | Installer |
+|----------|-----------|
+| ![app](https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_app.png) | ![installer](https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/screenshot_installer.png) |

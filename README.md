@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/stacyrggqmm-ui/ac-black-flag-resynced-optimizer/main/assets/banner.png" alt="AC Black Flag Resynced Performance Optimizer" width="100%">
+</div>
+
+<div align="center">
 
 # 🏴‍☠️ Assassin's Creed Black Flag Resynced — Performance Optimizer
 

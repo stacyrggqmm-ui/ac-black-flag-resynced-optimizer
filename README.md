@@ -1,4 +1,3 @@
-```markdown
 # ACBlackFlag-Boost
 
 ![Version](https://img.shields.io/badge/version-v1.3-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
@@ -79,10 +78,6 @@ Discover all changes in the [CHANGELOG.md](./CHANGELOG.md).
 ---
 
 © 2023 ACBlackFlag-Boost | Crafted with ❤️ by a French UX/UI developer | [MIT License](./LICENSE)
-```
-
-
-
 ## Screenshots
 
 <div align="center">
